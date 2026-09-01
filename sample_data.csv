@@ -1,0 +1,19 @@
+work_package,category,planned_cost,actual_cost
+Site Preparation,Labour,185000,201500
+Site Preparation,Materials,92000,88500
+Site Preparation,Contracts,45000,45000
+Foundation Works,Labour,310000,342000
+Foundation Works,Materials,275000,261000
+Foundation Works,Contracts,120000,131000
+Structural Steel,Labour,420000,398500
+Structural Steel,Materials,610000,655000
+Structural Steel,Contracts,95000,102000
+Electrical Systems,Labour,275000,289000
+Electrical Systems,Materials,340000,318000
+Electrical Systems,Contracts,60000,64500
+Mechanical Systems,Labour,260000,255000
+Mechanical Systems,Materials,410000,447000
+Mechanical Systems,Contracts,75000,71000
+Commissioning,Labour,140000,158000
+Commissioning,Materials,50000,46000
+Commissioning,Contracts,30000,33500
