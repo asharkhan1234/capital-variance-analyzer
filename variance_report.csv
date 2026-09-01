@@ -1,0 +1,19 @@
+work_package,category,planned_cost,actual_cost,variance_dollars,variance_pct,status
+Structural Steel,Materials,610000,655000,45000,7.38,Over Budget
+Mechanical Systems,Materials,410000,447000,37000,9.02,Over Budget
+Foundation Works,Labour,310000,342000,32000,10.32,Over Budget
+Electrical Systems,Materials,340000,318000,-22000,-6.47,Under Budget
+Structural Steel,Labour,420000,398500,-21500,-5.12,Under Budget
+Commissioning,Labour,140000,158000,18000,12.86,Over Budget
+Site Preparation,Labour,185000,201500,16500,8.92,Over Budget
+Electrical Systems,Labour,275000,289000,14000,5.09,Over Budget
+Foundation Works,Materials,275000,261000,-14000,-5.09,Under Budget
+Foundation Works,Contracts,120000,131000,11000,9.17,Over Budget
+Structural Steel,Contracts,95000,102000,7000,7.37,Over Budget
+Mechanical Systems,Labour,260000,255000,-5000,-1.92,Under Budget
+Electrical Systems,Contracts,60000,64500,4500,7.5,Over Budget
+Commissioning,Materials,50000,46000,-4000,-8.0,Under Budget
+Mechanical Systems,Contracts,75000,71000,-4000,-5.33,Under Budget
+Site Preparation,Materials,92000,88500,-3500,-3.8,Under Budget
+Commissioning,Contracts,30000,33500,3500,11.67,Over Budget
+Site Preparation,Contracts,45000,45000,0,0.0,On Budget
